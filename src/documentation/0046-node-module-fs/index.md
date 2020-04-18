@@ -82,4 +82,4 @@ try {
 }
 ```
 
-The key difference here is that the execution of your script will block in the second example, until the file operation succeeded.
+The key difference here is that the execution of your script will block in the second example, until the file operation succeeded or failed.
